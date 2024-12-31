@@ -1,0 +1,114 @@
+/* exampole of class */
+*{
+margin: 0;
+padding: 5000;
+box-sizing: border-box;
+}
+.one{
+  background-color: rgb(104, 100, 100);
+  color: white;
+  border: 5px solid green ;
+  padding: 50px;
+  /* text-decoration: solid; */
+  text-align: center;
+  border-radius: 20px;
+  margin: 50px;
+  margin-top: 200px;
+}
+.Item{
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+.Item1{
+  height: 100px;
+  width: 100px;
+  background-color: rgb(14, 137, 137);
+  border-radius: 10px;
+}
+.Item2{
+  height: 100px;
+  width: 100px;
+  background-color: rgb(14, 137, 137);
+  border-radius: 10px;
+}
+.Item3{
+  height: 100px;
+  width: 100px;
+  background-color: rgb(14, 137, 137);
+  border-radius: 10px;
+}
+.Item4{
+  height: 100px;
+  width: 100px;
+  background-color: rgb(14, 137, 137);
+  border-radius: 10px;
+}
+.Item5{
+  height: 100px;
+  width: 100px;
+  background-color: rgb(14, 137, 137);
+  border-radius: 10px;
+}
+
+/* exampole of ID */
+#box{
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin-top: 50px;
+}
+#box1{
+  height: 100px;
+  width: 100px;
+  background-color: rgb(14, 137, 137);
+  border-radius: 10px;
+}
+#box2{
+  height: 100px;
+  width: 100px;
+  background-color: rgb(14, 137, 137);
+  border-radius: 10px;
+}
+#box3{
+  height: 100px;
+  width: 100px;
+  background-color: rgb(14, 137, 137);
+  border-radius: 10px;
+}
+#box4{
+  height: 100px;
+  width: 100px;
+  background-color: rgb(14, 137, 137);
+  border-radius: 10px;
+}
+#box5{
+  height: 100px;
+  width: 100px;
+  background-color: rgb(14, 137, 137);
+  border-radius: 10px;
+}
+
+.preant{
+  height: 400px;
+  width: 900px;
+  background-color: brown;
+  /* display: flex; */
+  margin: 100px auto;
+  border-radius: 50px;
+  position: relative;
+}
+
+.child{
+  height: 100px;
+  width: 400px;
+  background-color: rgb(214, 202, 202);
+  /* display: flex; */
+  /* margin: 100px auto; */
+  border-radius: 20px;
+  position: absolute;
+  right: 200px;
+  top: 150px;
+  /* z-index: -5; */
+  /* zoom: 50%; */
+}

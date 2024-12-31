@@ -104,11 +104,9 @@ let typedArray =([12.00,32.05,45.32,65.56,98.45,87.25,45.41,65.89,78.78]);
 // }
 
 
-function printArgs() {
-  for (const arg of arguments) {
-      console.log(arg);
-  }
-}
-printArgs("Hello", "World", 2024);
-
-
+// function printArgs() {
+//   for (const arg of arguments) {
+//       console.log(arg);
+//   }
+// }
+// printArgs("Hello", "World", 2024);

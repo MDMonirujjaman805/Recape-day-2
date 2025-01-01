@@ -110,3 +110,27 @@ let typedArray =([12.00,32.05,45.32,65.56,98.45,87.25,45.41,65.89,78.78]);
 //   }
 // }
 // printArgs("Hello", "World", 2024);
+
+
+// let para = "my name is monir my country name is Bangladesh";
+// for(item of para){
+//   console.log(item);
+// };
+
+//
+
+// for(ar of array.reverse()){
+//   console.log(ar);
+// };
+
+
+// let number = [45,98,87,54,65,23,45,32,65,77];
+// for(let i =0; i<number.length; i++){
+//   console.log(` ${i}:{number ${i}} `);
+// }
+
+// const numbers = [10, 20, 30, 40, 50];
+
+// for (let i = 0; i < numbers.length; i++) {
+//     console.log(`Element at index ${i}: ${numbers[i]}`);
+// }

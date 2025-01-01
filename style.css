@@ -50,14 +50,22 @@ box-sizing: border-box;
   background-color: rgb(14, 137, 137);
   border-radius: 10px;
 }
-
-/* exampole of ID */
 #box{
   display: flex;
   gap: 20px;
   justify-content: center;
   margin-top: 50px;
 }
+.preant{
+  height: 400px;
+  width: 900px;
+  background-color: brown;
+  /* display: flex; */
+  margin: 100px auto;
+  border-radius: 50px;
+  position: relative;
+}
+
 #box1{
   height: 100px;
   width: 100px;
@@ -89,15 +97,6 @@ box-sizing: border-box;
   border-radius: 10px;
 }
 
-.preant{
-  height: 400px;
-  width: 900px;
-  background-color: brown;
-  /* display: flex; */
-  margin: 100px auto;
-  border-radius: 50px;
-  position: relative;
-}
 
 .child{
   height: 100px;
